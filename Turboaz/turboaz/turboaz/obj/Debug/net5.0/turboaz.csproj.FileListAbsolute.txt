@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Development\Turboaz\turboaz\turboaz\obj\Debug\net5.0\turboaz.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Development\Turboaz\turboaz\turboaz\obj\Debug\net5.0\turboaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Development\Turboaz\turboaz\turboaz\obj\Debug\net5.0\turboaz.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Development\Turboaz\turboaz\turboaz\obj\Debug\net5.0\turboaz.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Development\Turboaz\turboaz\turboaz\obj\Debug\net5.0\turboaz.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Development\Turboaz\turboaz\turboaz\bin\Debug\net5.0\turboaz.exe
+C:\Users\Admin\Desktop\Development\Turboaz\turboaz\turboaz\bin\Debug\net5.0\turboaz.deps.json
+C:\Users\Admin\Desktop\Development\Turboaz\turboaz\turboaz\bin\Debug\net5.0\turboaz.runtimeconfig.json
+C:\Users\Admin\Desktop\Development\Turboaz\turboaz\turboaz\bin\Debug\net5.0\turboaz.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Development\Turboaz\turboaz\turboaz\bin\Debug\net5.0\turboaz.dll
+C:\Users\Admin\Desktop\Development\Turboaz\turboaz\turboaz\bin\Debug\net5.0\ref\turboaz.dll
+C:\Users\Admin\Desktop\Development\Turboaz\turboaz\turboaz\bin\Debug\net5.0\turboaz.pdb
+C:\Users\Admin\Desktop\Development\Turboaz\turboaz\turboaz\obj\Debug\net5.0\turboaz.dll
+C:\Users\Admin\Desktop\Development\Turboaz\turboaz\turboaz\obj\Debug\net5.0\ref\turboaz.dll
+C:\Users\Admin\Desktop\Development\Turboaz\turboaz\turboaz\obj\Debug\net5.0\turboaz.pdb
+C:\Users\Admin\Desktop\Development\Turboaz\turboaz\turboaz\obj\Debug\net5.0\turboaz.genruntimeconfig.cache
